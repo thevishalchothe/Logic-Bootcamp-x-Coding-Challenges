@@ -16,7 +16,7 @@ Welcome to the **Logic-Bootcamp-x-Coding-Challenge**! This is a **7-day intensiv
 
 ## 🏆 **Key Highlights**:
 - **7-Day Intensive**: 25 coding challenges each day, escalating in complexity to help you progressively enhance your problem-solving skills. 📈
-- **Essential Java Topics**: Cover **Core Java**, **Java 8**, **Arrays**, **Strings**, **Collections**, and **Recursion**. 🔥
+- **Essential Java Topics**: Cover **Core Java**, **Arrays**, **Strings**, **Collections**, **Recursion**, and **Java 8**. 🔥
 - **Interview-Ready Challenges**: Focus on solving commonly asked interview questions from top tech companies. 💼
 - **Hands-On Learning**: Solidify your theoretical knowledge through practical problem-solving. 💡
 - **Boost Your Confidence**: By the end of the bootcamp, you'll be ready to tackle real-world problems and interviews with ease. 💪
@@ -51,7 +51,7 @@ Welcome to the **Logic-Bootcamp-x-Coding-Challenge**! This is a **7-day intensiv
 
 ---
 
-## 🚀 **Your Path to Becoming a Java Expert**:
+## 🚀 **Your Path to Becoming a Java-Logic Expert**:
 - **Start Solving Problems**: Clone this repository, dive into the coding challenges, and begin solving! 💻
 - **Learn By Doing**: Focus on understanding each problem and working through it step-by-step. 📑
 - **Stay Consistent**: Complete the challenges every day to unlock new levels of coding mastery! 🔓
@@ -60,7 +60,7 @@ Welcome to the **Logic-Bootcamp-x-Coding-Challenge**! This is a **7-day intensiv
 ---
 
 ## 💡 **Start Your Journey**:
-- **Ready to Master Java?** Begin solving challenges now and unlock your full coding potential! 🌟
+- **Ready to Master Java-Logic?** Begin solving challenges now and unlock your full coding potential! 🌟
 - **Take on New Challenges**: Push yourself to grow and tackle harder problems every day! ⚡
 - **Level Up**: By the end of the 7 days, you’ll have a wealth of knowledge and problem-solving skills to take with you into your career. 🎯
 
