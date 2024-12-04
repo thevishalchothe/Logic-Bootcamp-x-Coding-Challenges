@@ -10,12 +10,12 @@ Good luck with your preparation! 💻✨
 
 ---
 
-Welcome to the **Logic-Bootcamp-x-Coding-Challenge**! This is a **7-day intensive** coding program designed to help you **master Java** and significantly enhance your **problem-solving skills** through **25 coding challenges per day**. Whether you're preparing for **technical interviews** or want to strengthen your coding abilities, this challenge is the perfect way to immerse yourself in **Java programming**, **algorithms**, and **data structures**.
+Welcome to the **Logic-Bootcamp-x-Coding-Challenge**! This is a **Every-day intensive** coding program designed to help you **master Java** and significantly enhance your **problem-solving skills** through **As much as possible Coding challenges per day**. Whether you're preparing for **technical interviews** or want to strengthen your coding abilities, this challenge is the perfect way to immerse yourself in **Java programming**, **algorithms**, and **data structures**.
 
 ---
 
 ## 🏆 **Key Highlights**:
-- **7-Day Intensive**: 25 coding challenges each day, escalating in complexity to help you progressively enhance your problem-solving skills. 📈
+- **Every-Day Intensive**: As much as possible coding challenges each day, escalating in complexity to help you progressively enhance your problem-solving skills. 📈
 - **Essential Java Topics**: Cover **Core Java**, **Arrays**, **Strings**, **Collections**, **Recursion**, and **Java 8**. 🔥
 - **Interview-Ready Challenges**: Focus on solving commonly asked interview questions from top tech companies. 💼
 - **Hands-On Learning**: Solidify your theoretical knowledge through practical problem-solving. 💡
@@ -33,7 +33,7 @@ Welcome to the **Logic-Bootcamp-x-Coding-Challenge**! This is a **7-day intensiv
 ---
 
 ## 💡 **How You’ll Succeed**:
-1. **Commit to 7 Days**: Dedicate a focused block of **2-3 hours** every day to solve 25 problems. ⏰
+1. **Commit to Every Days**: Dedicate a focused block of **2-3 hours** every day to solve As much as possible problems. ⏰
 2. **Day-by-Day Growth**: Start with **Day 1**, and progress through each day's challenges as they build on each other. 📅
 3. **Understand Before Coding**: Take time to thoroughly **understand the problem** and the best approach before jumping into the code. 💡
 4. **Test Your Code**: Always test your solutions with different test cases and debug if necessary. 🧪
@@ -62,13 +62,13 @@ Welcome to the **Logic-Bootcamp-x-Coding-Challenge**! This is a **7-day intensiv
 ## 💡 **Start Your Journey**:
 - **Ready to Master Java-Logic?** Begin solving challenges now and unlock your full coding potential! 🌟
 - **Take on New Challenges**: Push yourself to grow and tackle harder problems every day! ⚡
-- **Level Up**: By the end of the 7 days, you’ll have a wealth of knowledge and problem-solving skills to take with you into your career. 🎯
+- **Level Up**: By the end of the Every days, you’ll have a wealth of knowledge and problem-solving skills to take with you into your career. 🎯
 
 Good luck, and happy coding! 💻✨
 
 ---
 ## 🎉 **Unlock Your Coding Potential**:
-- **Seize the Challenge**: Dive in and start your 7-day journey now! 🌱
+- **Seize the Challenge**: Dive in and start your Every-day journey now! 🌱
 - **Become a Java Master**: Gain the confidence to solve complex problems and ace technical interviews! 💪
 - **Challenge Yourself Daily**: Solve problems, review your work, and keep leveling up your coding skills. 📈
 
