@@ -1,10 +1,9 @@
 // 1)	Write a program to arrange the elements of an array in ascending order. 
-
 package codingchallenge.solutions.java8;
 
 import java.util.Arrays;
 
-public class SortArray {
+public class SortArrayJava8 {
 
 	public static void main(String[] args) {
 		
