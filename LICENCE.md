@@ -1,15 +1,15 @@
-**Vishal Chothe Open Source License 🌟**
 
-Copyright © @thevishalchothe.
+**Vishal Chothe's Open Source License 📝🔓🌟**
 
-This project is made available for personal, professional, educational, and
-developmental purposes, allowing you to modify, distribute, sublicense, and 
-enhance it, subject to the following:
+Copyright © [@thevishalchothe](https://github.com/thevishalchothe).
 
-- Include the copyright and permission notice in all copies or significant
-  portions of the project.
+This project is made available under the following terms for personal, professional, educational, and developmental purposes:
 
-**🚫 THE PROJECT IS PROVIDED "AS IS", WITHOUT ANY WARRANTY, EXPRESS OR IMPLIED. 🚫**
+- You are free to modify, distribute, sublicense, and enhance this project, provided that the following condition is met:
+  - The copyright notice and this permission notice must be included in all copies or substantial portions of the project.
+  - You can download and modify the project, but please reach out if you plan to make significant changes or enhancements. 💬 
+
+**🚫 THE PROJECT IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. 🚫**
 
 
 🔧 For inquiries or support, reach out to: vishalchothe134@gmail.com  
