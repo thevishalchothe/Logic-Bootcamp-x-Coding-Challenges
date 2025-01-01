@@ -18,11 +18,13 @@ Got it! Here's a **coding challenge** 🏆 designed to strengthen your **logic-b
 
 ## **🏆 Key Highlights:**
 
-- **Intensive Coding Challenges**: Solve a variety of problems, increasing in complexity to progressively enhance your skills. 📈
-- **Core Java Focus**: Tackle fundamental topics like Core Java, Arrays, Strings, Loops, Control Flow, and Collections. 🔥
-- **Interview Preparation**: Solve problems commonly asked by top tech companies to prepare for technical interviews. 💼
-- **Hands-On Learning**: Strengthen theoretical knowledge through practical problem-solving. 💡
-- **Build Confidence**: By the end of this challenge, you'll be prepared to solve real-world coding problems and ace interviews. 💪
+-  **Intensive Coding Challenges**: Solve a variety of problems, increasing in complexity to progressively enhance your skills. 📈  
+- **Array Top Coding Interview Questions**: Tackle the most commonly asked **Array problems** to build confidence for interviews. 🔢  
+- **String Top Coding Interview Questions**: Master critical **String manipulation problems** that are frequently tested. ✂️  
+- **Core Java Focus**: Tackle fundamental topics like Core Java, Arrays, Strings, Loops, Control Flow, and Collections. 🔥  
+- **Interview Preparation**: Solve problems commonly asked by top tech companies to prepare for technical interviews. 💼  
+- **Hands-On Learning**: Strengthen theoretical knowledge through practical problem-solving. 💡  
+- **Build Confidence**: By the end of this challenge, you'll be prepared to solve real-world coding problems and ace interviews. 💪  
 
 ---
 
