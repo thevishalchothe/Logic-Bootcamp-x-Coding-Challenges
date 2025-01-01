@@ -1,4 +1,5 @@
 // 4. Write a program to find the first non-repeated character in a string using Java 8.
+
 package codingchallenge.solutions.java8;
 
 import java.util.Optional;
